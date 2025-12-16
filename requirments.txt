@@ -1,1 +1,8 @@
+torch
+timm
+utils
+numpy
+braincog
+random
+einops
 
